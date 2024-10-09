@@ -5,3 +5,4 @@
 # Project 4: create simple Unit Converter
 # Project 5: create art using turtle
 ![drawing_render](https://github.com/user-attachments/assets/32d15dc4-45e1-469b-91db-d664fa755351)
+# Project 6: create a playable adventure story using if/else statements
